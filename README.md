@@ -1,4 +1,4 @@
-# Dappazon
+# Dappazon (Web3 Amazone Clone)
 
 ## Technology Stack & Tools
 
