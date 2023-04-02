@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\Coding Language\\Blockchain\\Ethereum_projects\\Amazon_clone\\contracts\\Dappazon.sol": {
+      "lastModificationDate": 1678272908916,
+      "contentHash": "dd756a4a554f922e6ec2a7ec779ef65f",
+      "sourceName": "contracts/Dappazon.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.16"
+      ],
+      "artifacts": [
+        "Dappazon"
+      ]
+    }
+  }
+}
